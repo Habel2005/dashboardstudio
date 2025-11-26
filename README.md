@@ -1,5 +1,5 @@
-# Firebase Studio
+# EverGreen Studio
 
-This is a NextJS starter in Firebase Studio.
+## Dasboard using Typescript
 
-To get started, take a look at src/app/page.tsx.
+A comprehensive small business ERP app featuring a central dashboard to monitor revenue, expenses, and profit, a calendar for managing appointments, customer relationship management, and invoice generation.
