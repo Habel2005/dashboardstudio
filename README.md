@@ -1,4 +1,4 @@
-# EverGreen Studio
+# EverGreen Studio [UI Only]
 
 ## Dasboard using Typescript
 
